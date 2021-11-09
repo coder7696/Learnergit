@@ -1,0 +1,16 @@
+error.log    
+(ignores this name file)
+
+dir/
+(ignores all directories with name dir)
+
+*.log
+(ignores all dot log files)
+
+t1.txt
+(ignores file name this )
+
+t3.txt
+
+All in one this folder helps us to ignore all files , if it contains that file name
+These commands will work only if they contain no other data then command in line.
